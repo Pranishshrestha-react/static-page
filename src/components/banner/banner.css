@@ -1,0 +1,27 @@
+.banner_body{
+    width: 100%;
+    height: 150px;
+    background-color: brown;
+    
+
+}
+.banner_size{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.text_church{
+      margin-top: 50px;
+      font-style: italic;
+      
+}
+.banner_bb{
+    padding: 0 100px 0 240px;
+    font-style: italic;
+}
+
+.button{
+    padding-left: 80px;
+}

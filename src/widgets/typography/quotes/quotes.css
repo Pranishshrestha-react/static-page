@@ -1,0 +1,32 @@
+
+.whole{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.numbers{
+    line-height: 0px ;
+}
+
+.big{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(218, 199, 199);   
+}
+
+.small{
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(218, 199, 199);
+    text-align:center;    
+}
+
+img{
+    height:35px;
+    width: 2px;
+    padding-left: 5px;
+    
+}

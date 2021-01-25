@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    width: 85%;
+    margin:auto;
+    padding: 40px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+  
+}
+.main h3{
+    font-weight: bold;
+    color: #222;
+    font-size: 22px;
+    margin-top: 50px;
+    text-align: center;
+  
+}
+
+
+.event_pic img{
+    height: 180px;
+    width: 320px;
+    margin-right: 20px;
+    
+}
+
+
+.second{
+    width: 320px;
+    
+       
+}
+.text_ita{
+    font-style: italic;
+}
+.text_bold{
+    text-align: left;
+    font-weight: bold;
+    
+    color:#222;
+    font-size: 22px;
+    margin:23px 0;
+}
