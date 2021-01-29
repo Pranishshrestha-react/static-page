@@ -7,7 +7,9 @@ import './footer.css'
 
 const Footer = () => {
     return <div className="footbody">
+        
                 <div className="footpart">
+                  
                     <span>Copyright @2021. Alright</span>
                     <div className="links">
                         <img src={fb}/>

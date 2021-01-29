@@ -15,7 +15,7 @@ const Events = (props) => {
     return <div className="main">
                 <h3>OUR EVENTS</h3>
                     <div className="first">
-                        <div classname="main_pic">
+                        <div id="main_pic">
                             <div className="event_pic">
                                 <img src={aas} />
                             </div>
@@ -43,7 +43,7 @@ const Events = (props) => {
                             </div>
                         </div>
 
-                        <div classname="maiin_pic">
+                        <div id="main_pic">
                             <div className="event_pic">
                                 <img src={asd}/>
                             </div>
@@ -71,7 +71,7 @@ const Events = (props) => {
                             </div>
                         </div>
 
-                        <div classname="main_ppic">
+                        <div id="main_pic">
                             <div className="event_pic">
                                 <img src={asdf} />
                             </div>

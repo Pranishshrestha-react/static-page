@@ -3,12 +3,15 @@
     margin:auto;
     padding: 40px 0px;
     
+    
 }
 
 .services{
     display: flex;
+    
 
 }
+
 .services img{
     height: 40px;
     width: 60px;

@@ -1,0 +1,80 @@
+#formClassic{
+    width: 100%;
+    background-color:brown;
+    padding: 80px 0 50px 0;
+ }
+.form_body{
+    width: 85%;
+    background-color:cornsilk;
+    margin: auto;
+    padding: 50px 0;
+    border-radius: 35px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.only_form{
+    width:43%;
+    
+    margin: 0 20px;
+}
+
+#formClassic input, #formClassic textarea{
+    display:block;
+    margin: 5px 0;
+    width: 400px;
+
+}
+#formClassic textarea{
+    height: 150px;
+    width: 480px;
+}
+#formClassic Button{
+    margin: 2px 380px;
+}
+.error{
+    color: red;
+}
+
+.error-block{
+    border: 1px solid red;
+}
+
+.only_form img{
+    height:20px;
+    width: 20px;
+}
+.map{
+    width: 57%;
+    height: 100%;
+    padding: 0 50px;
+}
+.map_img iframe{
+    height: 340px;
+    width: 100%;
+}
+.flex{
+    display: flex;
+    padding-bottom: 30px;
+    padding-right:5px;
+}
+.location{
+    display:flex;
+    flex-direction:row;
+}
+.location span{
+    font-weight: bold;
+    margin: 0 25px 0 10px;
+}
+.location img{
+    height:50px;
+    width: 45px;
+    margin: 0 2px;
+}
+.line img{
+    width: 10px;
+}
+.add{
+    display:flex;
+    flex-direction: column;
+}

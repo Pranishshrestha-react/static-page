@@ -11,6 +11,7 @@ import './bannerd.css'
 
 const Bannerd = () => {
     return <div className="body">
+        <div className="body_Part">
                 <div className="white">
                     <div className="head">Welcome To Our Church</div>
                     
@@ -48,6 +49,7 @@ const Bannerd = () => {
 
 
                 </div>
+            </div>
 
 
 

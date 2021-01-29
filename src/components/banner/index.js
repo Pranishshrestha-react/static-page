@@ -5,7 +5,7 @@ import Images from '../../images';
 import arrow from '../../images/arrow.png';
 import cal from '../../images/cal.png';
 import gps from '../../images/gps.png';
-import './banner.css'
+import './banner.css' 
 
 const Banner = () => {
     return <div className="banner_body">
